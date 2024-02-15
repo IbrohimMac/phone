@@ -1,0 +1,87 @@
+.big {
+  background-image: url(https://clocktaymer.netlify.app/img/bcg.jpg);
+  width: 1712px;
+  height: 996px;
+  margin-left: -10px;
+  margin-top: -22px;
+}
+.big .back .i1 {
+  width: 450px;
+  margin-left: 620px;
+  margin-top: 190px;
+}
+.big .back .clock-alarm {
+  gap: 25px;
+  display: flex;
+  margin-left: 668px;
+  margin-top: -600px;
+}
+.big .back .clock-alarm .clock {
+  transition: transform 0.4s; /* Animation */
+}
+.big .back .clock-alarm .clock h3 {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.big .back .clock-alarm .clock img {
+  width: 160px;
+  cursor: pointer;
+}
+.big .back .clock-alarm .clock:hover {
+  transform: scaleY(1.04);
+}
+.big .back .clock-alarm .alarm {
+  transition: transform 0.4s; /* Animation */
+}
+.big .back .clock-alarm .alarm h3 {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.big .back .clock-alarm .alarm img {
+  width: 160px;
+  cursor: pointer;
+}
+.big .back .clock-alarm .alarm:hover {
+  transform: scaleY(1.04);
+}
+.big .back .timer-string {
+  gap: 25px;
+  display: flex;
+  margin-left: 668px;
+}
+.big .back .timer-string .timer {
+  transition: transform 0.4s; /* Animation */
+}
+.big .back .timer-string .timer h3 {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.big .back .timer-string .timer img {
+  width: 160px;
+  cursor: pointer;
+}
+.big .back .timer-string .timer:hover {
+  transform: scaleY(1.04);
+}
+.big .back .timer-string .string {
+  transition: transform 0.4s; /* Animation */
+}
+.big .back .timer-string .string h3 {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+.big .back .timer-string .string img {
+  width: 160px;
+  cursor: pointer;
+}
+.big .back .timer-string .string:hover {
+  transform: scaleY(1.04);
+}/*# sourceMappingURL=style.css.map */
