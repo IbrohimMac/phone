@@ -10,6 +10,23 @@
       margin-left: 620px;
       margin-top: 190px;
     }
+    .string {
+      margin-top: -500px;
+      margin-left: 660px;
+      h1 {
+        color: white;
+        font-family: sans-serif;
+        position: relative;
+        top: -40px;
+        margin-left: 70px;
+      }
+      p {
+        display: flex;
+        justify-content: center;
+        color: white;
+        width: 370px;
+      }
+    }
     .Back-in {
       a {
         cursor: pointer;
@@ -18,7 +35,6 @@
         display: flex;
         justify-content: center;
         margin-left: -24px;
-        margin-top: 100px;
       }
       a:hover {
         color: rgb(241, 216, 125);
