@@ -1,4 +1,4 @@
-let time = 100;
+let time = 2;
 const countDownEl = document.getElementById("countdown");
 
 setInterval(updateCountdown, 1000);

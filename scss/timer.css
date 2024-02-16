@@ -24,4 +24,17 @@
   font-family: sans-serif;
   color: rgb(255, 255, 255);
   margin-top: 35px;
+}
+.big .back .Back-in a {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(241, 194, 24);
+  display: flex;
+  justify-content: center;
+  margin-left: -24px;
+  margin-top: 100px;
+}
+.big .back .Back-in a:hover {
+  color: rgb(241, 216, 125);
+  transition: 0.4s;
 }/*# sourceMappingURL=timer.css.map */

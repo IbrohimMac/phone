@@ -1,0 +1,29 @@
+.big {
+  background-image: url(https://clocktaymer.netlify.app/img/bcg.jpg);
+  width: 1712px;
+  height: 996px;
+  margin-left: -10px;
+  margin-top: -22px;
+  .back {
+    .i1 {
+      width: 450px;
+      margin-left: 620px;
+      margin-top: 190px;
+    }
+    .Back-in {
+      a {
+        cursor: pointer;
+        text-decoration: none;
+        color: rgb(241, 194, 24);
+        display: flex;
+        justify-content: center;
+        margin-left: -24px;
+        margin-top: 100px;
+      }
+      a:hover {
+        color: rgb(241, 216, 125);
+        transition: 0.4s;
+      }
+    }
+  }
+}
