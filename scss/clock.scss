@@ -10,5 +10,68 @@
       margin-left: 620px;
       margin-top: 190px;
     }
+    .menu-clock {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-top: -320px;
+      margin-left: -24px;
+      .hour {
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        background-color: rgb(216, 214, 214);
+        width: 90px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+      }
+      .minute {
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        background-color: rgb(216, 214, 214);
+        width: 90px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+      }
+      .second {
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        background-color: rgb(216, 214, 214);
+        width: 90px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+      }
+    }
+    .h-h {
+      margin-left: -13px;
+      margin-top: -100px;
+      gap: 50px;
+      color: white;
+      display: flex;
+      justify-content: center;
+    }
+    .Back {
+      a {
+        cursor: pointer;
+        text-decoration: none;
+        color: rgb(241, 194, 24);
+        display: flex;
+        justify-content: center;
+        margin-left: -24px;
+        margin-top: 100px;
+      }
+      a:hover {
+        color: rgb(241, 216, 125);
+        transition: 0.4s;
+      }
+    }
   }
 }
