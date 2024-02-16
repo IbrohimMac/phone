@@ -1,0 +1,29 @@
+.big {
+  background-image: url(https://clocktaymer.netlify.app/img/bcg.jpg);
+  width: 1712px;
+  height: 996px;
+  margin-left: -10px;
+  margin-top: -22px;
+  .back {
+    .i1 {
+      width: 450px;
+      margin-left: 620px;
+      margin-top: 190px;
+    }
+    .Timer {
+      text-align: center;
+      margin-top: -500px;
+      margin-left: -24px;
+      h1 {
+        font-family: sans-serif;
+        color: White;
+      }
+      p {
+        font-size: 20px;
+        font-family: sans-serif;
+        color: rgb(255, 255, 255);
+        margin-top: 35px;
+      }
+    }
+  }
+}

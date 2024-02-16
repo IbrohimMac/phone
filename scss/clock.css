@@ -58,7 +58,7 @@
   display: flex;
   justify-content: center;
 }
-.big .back .Back a {
+.big .back .Back-in a {
   cursor: pointer;
   text-decoration: none;
   color: rgb(241, 194, 24);
@@ -67,7 +67,7 @@
   margin-left: -24px;
   margin-top: 100px;
 }
-.big .back .Back a:hover {
+.big .back .Back-in a:hover {
   color: rgb(241, 216, 125);
   transition: 0.4s;
 }/*# sourceMappingURL=clock.css.map */
